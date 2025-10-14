@@ -1,0 +1,17 @@
+### Dart/Flutter ###
+*.iml
+.idea
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+build/
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/Runner.xcworkspace/
+coverage/
+*.g.dart
+*.freezed.dart
+*.config.json
